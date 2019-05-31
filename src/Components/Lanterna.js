@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Button } from 'reactstrap';
 import Bateria from './Bateria.js';
-import './Lanterna.css';
 
 class Lanterna extends Component {
   constructor(props){
